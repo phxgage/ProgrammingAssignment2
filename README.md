@@ -1,16 +1,10 @@
-ProgrammingAssignment2
-======================
-
-Repository for Programming Assignment 2 for R Programming on Coursera
-
+# Solution to ProgrammingAssignment2
 ---
 title: "README.md"
 author: "J O Smith (phxgage)"
 date: "July 10, 2014"
-output: html_document
 ---
 
-# SOLUTION TO PROGRAMMING ASSIGNMENT 2
 ## Approach
 * Follow general outline of example in assignment
 * Use CAPITAL Letters for external matrix variables
